@@ -2,13 +2,13 @@
 
 このリポジトリは、私が制作した Webサイト制作のスキルや実績を紹介するためのポートフォリオサイトです。HTML / CSS / JavaScript を用いた静的ページを中心に、UI/UX・レスポンシブデザインにも対応した構造です。
 
-##サイト概要
+## サイト概要
 
 - 制作実績（サイトのスクリーンショット・使用技術・役割）
 - スキルセット（使用可能な言語・ツール）
 - お問い合わせフォーム（仮）
 
-##アクセスURL
+## アクセスURL
 
 - https://kedy-blog.conohawing.com/syokyu
 - https://kedy-blog.conohawing.com/syokyu_ex
