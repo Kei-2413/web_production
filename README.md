@@ -5,13 +5,13 @@
 -ID：user
 -Password: test_user1
 
-##  サイト概要
+##サイト概要
 
 - 制作実績（サイトのスクリーンショット・使用技術・役割）
 - スキルセット（使用可能な言語・ツール）
 - お問い合わせフォーム（仮）
 
-##　アクセスURL
+##アクセスURL
 
 - https://kedy-blog.conohawing.com/syokyu
 - https://kedy-blog.conohawing.com/syokyu_ex
